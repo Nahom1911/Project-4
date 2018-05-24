@@ -1,0 +1,50 @@
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project 4.dll
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project 4.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project_4.Project_4.apk
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project_4.Project_4-Signed.apk
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\Project 4.csprojResolveAssemblyReference.cache
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\Project 4.dll
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\Project 4.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\android\bin\Project_4.Project_4.apk
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\values\strings.xml
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\thuisoefeningen_9.jpg
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\arm_1.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\been_2.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\bmi_3.gif
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\borst_4.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\logo_6.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\oefening_7.jpg
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\rug_8.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\R.cs.flag
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\uploadflags.txt
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Mono.Android.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\mscorlib.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.Core.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.Xml.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.Net.Http.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.Runtime.Serialization.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.ServiceModel.Internals.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Mono.Security.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\System.ComponentModel.Composition.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\Mono.Android.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\mscorlib.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.Core.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.Xml.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.Net.Http.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\Mono.Security.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\Project 4.dll.mdb
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project 4.dll.mdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\android\assets\Project 4.dll.mdb
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\layout\thuisoefeningen.xml
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\layout\bmi.xml
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\layout\hoofdmenu.xml
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\test_1.png
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\buikje_5.png
+c:\users\nahom\source\repos\Project 4\Project 4\bin\Debug\Project 4.dll
+c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\linksrc\Project 4.dll.mdb

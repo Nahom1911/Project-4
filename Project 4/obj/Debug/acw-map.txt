@@ -1,0 +1,12 @@
+Project_4.BMI, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
+Project_4.BMI, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
+Project_4.BMI;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
+project_4.BMI;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
+Project_4.MainActivity, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
+Project_4.MainActivity, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
+Project_4.MainActivity;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
+project_4.MainActivity;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
+Project_4.Thuisoefeningen, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
+Project_4.Thuisoefeningen, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
+Project_4.Thuisoefeningen;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
+project_4.Thuisoefeningen;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
