@@ -107,6 +107,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Project 4.dll" comes first in this list. */
 		"Project 4.dll",
+		"RadialProgress.Android.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

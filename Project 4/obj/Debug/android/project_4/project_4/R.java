@@ -24,11 +24,19 @@ public final class R {
         public static final int timer_3=0x7f02000a;
     }
     public static final class id {
-        public static final int imageButton1=0x7f050000;
-        public static final int imageButton2=0x7f050001;
-        public static final int imageButton3=0x7f050002;
-        public static final int imageButton4=0x7f050004;
-        public static final int imageButton5=0x7f050003;
+        public static final int btnStart=0x7f05000b;
+        public static final int btnStop=0x7f05000c;
+        public static final int calculate=0x7f050002;
+        public static final int height=0x7f050000;
+        public static final int imageButton1=0x7f050004;
+        public static final int imageButton2=0x7f050005;
+        public static final int imageButton3=0x7f050006;
+        public static final int imageButton4=0x7f050008;
+        public static final int imageButton5=0x7f050007;
+        public static final int progressView=0x7f050009;
+        public static final int result=0x7f050003;
+        public static final int txtTimer=0x7f05000a;
+        public static final int weight=0x7f050001;
     }
     public static final class layout {
         public static final int bmi=0x7f030000;
