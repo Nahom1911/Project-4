@@ -25,7 +25,7 @@ namespace Project_4
             // Create your application here
             SetContentView(Resource.Layout.BMI);
 
-            height = (EditText)FindViewById(Resource.Id.height);
+            /*height = (EditText)FindViewById(Resource.Id.height);
             weight = (EditText)FindViewById(Resource.Id.weight);
             result = (TextView)FindViewById(Resource.Id.result);
             calculate = (Button)FindViewById(Resource.Id.calculate);
@@ -49,7 +49,7 @@ namespace Project_4
                     else if (bmiNumber < 30)
                         result.Text = "You are overweight! ):";
                     else
-                        result.Text = "You are obese! ):";
+                        result.Text = "You are obese! ):";*/
 
                    
                 }
