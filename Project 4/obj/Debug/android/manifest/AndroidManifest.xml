@@ -13,6 +13,7 @@
       </intent-filter>
     </activity>
     <activity android:label="Thuisoefeningen" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen" />
+    <activity android:label="Timer" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Project_4.Project_4.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
