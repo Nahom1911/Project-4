@@ -14,8 +14,8 @@ using System.Timers;
 
 namespace Project_4
 {
-    [Activity(Label = "Timer")]
-    public class Timer : Activity
+    [Activity(Label = "Timer1")]
+    public class Timer1 : Activity
     {
         RadialProgressView radialProgressView;
         Button btnStart , btnStop;
@@ -32,14 +32,14 @@ namespace Project_4
             // Create your application here
             SetContentView(Resource.Layout.Timer);
 
-           /* radialProgressView = FindViewById<RadialProgressView>(Resource.Id.progressView);
+            radialProgressView = FindViewById<RadialProgressView>(Resource.Id.progressView);
             btnStart = FindViewById<Button>(Resource.Id.btnStart);
             btnStop = FindViewById<Button>(Resource.Id.btnStop);
             txtTimer = FindViewById<TextView>(Resource.Id.txtTimer);
 
             btnStart.Click += delegate {
-               // btnStart.Enabled = false;
-               // btnStop.Enabled = true;
+                btnStart.Enabled = false;
+                btnStop.Enabled = true;
                 timer = new Timer();
                 timer.Interval = 1000;
                 timer.Elapsed += Timer_Elapsed;
@@ -69,7 +69,7 @@ namespace Project_4
                 min = 0;
             }
             RunOnUiThread(() => { txtTimer.Text = $"{hour}:{min}:{sec}"; });
-            radialProgressView.Value = sec;*/
+            radialProgressView.Value = sec;
         }
     }
 }

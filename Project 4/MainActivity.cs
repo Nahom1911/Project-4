@@ -23,7 +23,7 @@ namespace Project_4
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Hoofdmenu);
 
-            /*var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
+            var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
             var imageButton3 = FindViewById<ImageButton>(Resource.Id.imageButton3);
 
@@ -46,8 +46,8 @@ namespace Project_4
             imageButton3.Click += delegate
             {
                 Console.WriteLine("CLICKED imageButton3");
-                Intent nextActivity = new Intent(this, typeof(Timer));
-                StartActivity(nextActivity);*/
+                Intent nextActivity = new Intent(this, typeof(Timer1));
+                StartActivity(nextActivity);
 
             };
         }
