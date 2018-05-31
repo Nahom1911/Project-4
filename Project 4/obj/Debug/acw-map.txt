@@ -1,7 +1,11 @@
-Project_4.BMI, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
-Project_4.BMI, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
-Project_4.BMI;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
-project_4.BMI;md5d3387cadd4d4015e8be0fd8024ccb5c6.BMI
+Project_4.Armoefening1, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefening1
+Project_4.Armoefening1, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefening1
+Project_4.Armoefening1;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefening1
+project_4.Armoefening1;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefening1
+Project_4.Armvideo, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo
+Project_4.Armvideo, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo
+Project_4.Armvideo;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo
+project_4.Armvideo;md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo
 Project_4.MainActivity, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
 Project_4.MainActivity, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
 Project_4.MainActivity;md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity
@@ -10,10 +14,10 @@ Project_4.Thuisoefeningen, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoe
 Project_4.Thuisoefeningen, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
 Project_4.Thuisoefeningen;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
 project_4.Thuisoefeningen;md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen
-Project_4.Timer, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer
-Project_4.Timer, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer
-Project_4.Timer;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer
-project_4.Timer;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer
+Project_4.Timer1, Project 4;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1
+Project_4.Timer1, Project 4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1
+Project_4.Timer1;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1
+project_4.Timer1;md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1
 RadialProgress.RadialProgressView, RadialProgress.Android;md565ae71dbe3b466a414b8046441055195.RadialProgressView
 RadialProgress.RadialProgressView, RadialProgress.Android, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null;md565ae71dbe3b466a414b8046441055195.RadialProgressView
 RadialProgress.RadialProgressView;md565ae71dbe3b466a414b8046441055195.RadialProgressView

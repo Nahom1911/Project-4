@@ -57,7 +57,8 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BMI.cs" />
+    <Compile Include="Armoefening1.cs" />
+    <Compile Include="Armvideo.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,10 +74,13 @@
     <AndroidResource Include="Resources\layout\Thuisoefeningen.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\BMI.axml">
+    <AndroidResource Include="Resources\layout\Timer.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\Timer.axml">
+    <AndroidResource Include="Resources\layout\ArmOefeningen.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Armvid.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -125,6 +129,9 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\Timer_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ArmOef1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

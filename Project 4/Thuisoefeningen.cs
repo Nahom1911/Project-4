@@ -27,6 +27,14 @@ namespace Project_4
             var imageButton4 = FindViewById<ImageButton>(Resource.Id.imageButton4);
             var imageButton5 = FindViewById<ImageButton>(Resource.Id.imageButton5);
 
+            imageButton1.Click += delegate
+            {
+                Console.WriteLine("CLICKED imageButton1");
+                Intent nextActivity = new Intent(this, typeof(Armoefening1));
+                StartActivity(nextActivity);
+
+            };
+
         }
     }
 }

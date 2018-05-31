@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>29-5-2018 09:51:32</xs:documentation>
+    <xs:documentation>1-6-2018 00:17:28</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -12,7 +12,8 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/bmi" />
+            <xs:enumeration value="@layout/armoefeningen" />
+            <xs:enumeration value="@layout/armvid" />
             <xs:enumeration value="@layout/hoofdmenu" />
             <xs:enumeration value="@layout/thuisoefeningen" />
             <xs:enumeration value="@layout/timer" />
@@ -53,7 +54,8 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/bmi" />
+            <xs:enumeration value="@layout/armoefeningen" />
+            <xs:enumeration value="@layout/armvid" />
             <xs:enumeration value="@layout/hoofdmenu" />
             <xs:enumeration value="@layout/thuisoefeningen" />
             <xs:enumeration value="@layout/timer" />
@@ -94,7 +96,8 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/bmi" />
+            <xs:enumeration value="@layout/armoefeningen" />
+            <xs:enumeration value="@layout/armvid" />
             <xs:enumeration value="@layout/hoofdmenu" />
             <xs:enumeration value="@layout/thuisoefeningen" />
             <xs:enumeration value="@layout/timer" />
@@ -135,7 +138,8 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/bmi" />
+            <xs:enumeration value="@layout/armoefeningen" />
+            <xs:enumeration value="@layout/armvid" />
             <xs:enumeration value="@layout/hoofdmenu" />
             <xs:enumeration value="@layout/thuisoefeningen" />
             <xs:enumeration value="@layout/timer" />

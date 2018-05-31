@@ -35,13 +35,13 @@ namespace Project_4
 
             };
 
-            imageButton2.Click += delegate
+           /* imageButton2.Click += delegate
             {
                 Console.WriteLine("CLICKED imageButton2");
                 Intent nextActivity = new Intent(this, typeof(BMI));
                 StartActivity(nextActivity);
 
-            };
+            };*/
 
             imageButton3.Click += delegate
             {
