@@ -25,12 +25,32 @@ namespace Project_4
             var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
             var imageButton3 = FindViewById<ImageButton>(Resource.Id.imageButton3);
             var imageButton4 = FindViewById<ImageButton>(Resource.Id.imageButton4);
-            var imageButton5 = FindViewById<ImageButton>(Resource.Id.imageButton5);
 
             imageButton1.Click += delegate
             {
                 Console.WriteLine("CLICKED imageButton1");
-                Intent nextActivity = new Intent(this, typeof(Armoefening1));
+                Intent nextActivity = new Intent(this, typeof(Armoefeningen1));
+                StartActivity(nextActivity);
+
+            };
+            imageButton3.Click += delegate
+            {
+                Console.WriteLine("CLICKED imageButton3");
+                Intent nextActivity = new Intent(this, typeof(Borstoefeningen1));
+                StartActivity(nextActivity);
+
+            };
+            imageButton2.Click += delegate
+            {
+                Console.WriteLine("CLICKED imageButton3");
+                Intent nextActivity = new Intent(this, typeof(Beenoefeningen1));
+                StartActivity(nextActivity);
+
+            };
+            imageButton4.Click += delegate
+            {
+                Console.WriteLine("CLICKED imageButton3");
+                Intent nextActivity = new Intent(this, typeof(Buikoefeningen1));
                 StartActivity(nextActivity);
 
             };

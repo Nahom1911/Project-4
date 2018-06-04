@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:minWidth="25px"
+            android:minHeight="25px">
+            <TextView
+                android:text="TRADITIONAL CRUNCH"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2" />
+            <ImageView
+                android:src="@drawable/BuikOef1"
+                android:layout_width="168.0dp"
+                android:layout_height="155.0dp"
+                android:id="@+id/imageView1"
+                android:layout_marginRight="0.0dp" />
+            <TextView
+                android:text="1. Ga plat op de grond liggen met uw knieën gebogen. Vouw uw handen achter uw hoofd, achter uw oren (sla uw handen dus NIET achter uw hoofd in elkaar). 2. Gebruik uw buikspieren om uw hoofd en bovenlichaam op te tillen, terwijl u uw onderrug stevig tegen de grond drukt. 3. Houd positie 2 gedurende 2 seconden vast, en kom dan langzaam weer terug in de beginpositie. U dient de beweging gecontroleerd uit te voeren. "
+                android:layout_width="368.5dp"
+                android:layout_height="88.0dp"
+                android:id="@+id/textView1"
+                android:layout_marginRight="204.0dp" />
+            <Button
+                android:text="Start Video"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Button1" />
+            <TextView
+                android:text="OBLIQUE V-UP"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3" />
+            <ImageView
+                android:src="@drawable/BuikOef2"
+                android:layout_width="168.0dp"
+                android:layout_height="155.0dp"
+                android:id="@+id/imageView2"
+                android:layout_marginRight="0.0dp" />
+            <TextView
+                android:text="- Lig op uw zij op de grond met uw armen gekruist op schouders zoals op de afbeelding is te zien. Til uw hoofd en uw voeten een stukje van de grond, zodat u met uw hele lichaam evenwijdig aan de grond ligt (laat uw hoofd en benen niet hangen tijdens de oefening!). - Maak vervolgens een knikbeweging door met uw bovenste schouder richting uw benen zijwaarts te ‘crunchen’. U voelt vrij snel aan uw zij-buikspieren of u de oefening goed doet of niet. Voer de oefening aan beide kanten uit. "
+                android:layout_width="368.5dp"
+                android:layout_height="88.0dp"
+                android:id="@+id/textView4"
+                android:layout_marginRight="204.0dp" />
+            <Button
+                android:text="Start Video"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Button2" />
+            <TextView
+                android:text="PULSE UP"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView5" />
+            <ImageView
+                android:src="@drawable/BuikOef3"
+                android:layout_width="168.0dp"
+                android:layout_height="155.0dp"
+                android:id="@+id/imageView3"
+                android:layout_marginRight="0.0dp" />
+            <TextView
+                android:text="- Lig op uw rug met uw armen plat op de grond naast u. Trek uw benen op, zodat u ligt in de positie zoals te zien is op de illustratie. - Duw nu uw navel naar u toe en span uw bilspieren aan, terwijl u uw heupen 5 a 10 centimeter boven de grond optilt. Vervolgens laat u uw heupen weer zakken om weer in positie 1 uit te komen. "
+                android:layout_width="368.5dp"
+                android:layout_height="88.0dp"
+                android:id="@+id/textView6"
+                android:layout_marginRight="204.0dp" />
+            <Button
+                android:text="Start Video"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Button3" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

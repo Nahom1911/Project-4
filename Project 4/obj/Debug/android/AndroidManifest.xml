@@ -5,8 +5,22 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:label="Armoefening1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefening1" />
+    <activity android:label="Armoefening1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Armoefeningen1" />
     <activity android:label="Armvideo" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo" />
+    <activity android:label="Armvideo2" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo2" />
+    <activity android:label="Armvideo3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Armvideo3" />
+    <activity android:label="Beenoefeningen1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Beenoefeningen1" />
+    <activity android:label="Beenvideo" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Beenvideo" />
+    <activity android:label="Beenvideo2" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Beenvideo2" />
+    <activity android:label="Beenvideo3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Beenvideo3" />
+    <activity android:label="Borstoefeningen1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Borstoefeningen1" />
+    <activity android:label="Borstvideo" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Borstvideo" />
+    <activity android:label="Borstvideo2" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Borstvideo2" />
+    <activity android:label="Borstvideo3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Borstvideo3" />
+    <activity android:label="Buikoefeningen1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikoefeningen1" />
+    <activity android:label="Buikvid" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo" />
+    <activity android:label="Buikvid2" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo2" />
+    <activity android:label="Buikvid3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo3" />
     <activity android:label="Project_4" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

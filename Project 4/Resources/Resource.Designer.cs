@@ -51,34 +51,67 @@ namespace Project_4
 			public const int ArmOef1 = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int Been_2 = 2130837506;
+			public const int ArmOef2 = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int BMI_3 = 2130837507;
+			public const int ArmOef3 = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int Borst_4 = 2130837508;
+			public const int Been_2 = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int Buikje_5 = 2130837509;
+			public const int BeenOef1 = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int Logo_6 = 2130837510;
+			public const int BeenOef2 = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int Oefening_7 = 2130837511;
+			public const int BeenOef3 = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int Rug_8 = 2130837512;
+			public const int BMI_3 = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int Test_1 = 2130837513;
+			public const int Borst_4 = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int Thuisoefeningen_9 = 2130837514;
+			public const int BorstOef1 = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int Timer_3 = 2130837515;
+			public const int BorstOef2 = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int BorstOef3 = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int Buikje_5 = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int BuikOef1 = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int BuikOef2 = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int BuikOef3 = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int Logo_6 = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int Oefening_7 = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int Rug_8 = 2130837523;
+			
+			// aapt resource value: 0x7f020014
+			public const int Test_1 = 2130837524;
+			
+			// aapt resource value: 0x7f020015
+			public const int Thuisoefeningen_9 = 2130837525;
+			
+			// aapt resource value: 0x7f020016
+			public const int Timer_3 = 2130837526;
 			
 			static Drawable()
 			{
@@ -96,35 +129,44 @@ namespace Project_4
 			// aapt resource value: 0x7f050003
 			public const int Button1 = 2131034115;
 			
+			// aapt resource value: 0x7f050007
+			public const int Button2 = 2131034119;
+			
+			// aapt resource value: 0x7f05000b
+			public const int Button3 = 2131034123;
+			
+			// aapt resource value: 0x7f050013
+			public const int btnStart = 2131034131;
+			
+			// aapt resource value: 0x7f050014
+			public const int btnStop = 2131034132;
+			
 			// aapt resource value: 0x7f05000c
-			public const int btnStart = 2131034124;
+			public const int button1 = 2131034124;
 			
 			// aapt resource value: 0x7f05000d
-			public const int btnStop = 2131034125;
+			public const int imageButton1 = 2131034125;
 			
-			// aapt resource value: 0x7f050004
-			public const int button1 = 2131034116;
+			// aapt resource value: 0x7f05000e
+			public const int imageButton2 = 2131034126;
 			
-			// aapt resource value: 0x7f050005
-			public const int imageButton1 = 2131034117;
+			// aapt resource value: 0x7f05000f
+			public const int imageButton3 = 2131034127;
 			
-			// aapt resource value: 0x7f050006
-			public const int imageButton2 = 2131034118;
-			
-			// aapt resource value: 0x7f050007
-			public const int imageButton3 = 2131034119;
-			
-			// aapt resource value: 0x7f050009
-			public const int imageButton4 = 2131034121;
-			
-			// aapt resource value: 0x7f050008
-			public const int imageButton5 = 2131034120;
+			// aapt resource value: 0x7f050010
+			public const int imageButton4 = 2131034128;
 			
 			// aapt resource value: 0x7f050001
 			public const int imageView1 = 2131034113;
 			
-			// aapt resource value: 0x7f05000a
-			public const int progressView = 2131034122;
+			// aapt resource value: 0x7f050005
+			public const int imageView2 = 2131034117;
+			
+			// aapt resource value: 0x7f050009
+			public const int imageView3 = 2131034121;
+			
+			// aapt resource value: 0x7f050011
+			public const int progressView = 2131034129;
 			
 			// aapt resource value: 0x7f050002
 			public const int textView1 = 2131034114;
@@ -132,8 +174,20 @@ namespace Project_4
 			// aapt resource value: 0x7f050000
 			public const int textView2 = 2131034112;
 			
-			// aapt resource value: 0x7f05000b
-			public const int txtTimer = 2131034123;
+			// aapt resource value: 0x7f050004
+			public const int textView3 = 2131034116;
+			
+			// aapt resource value: 0x7f050006
+			public const int textView4 = 2131034118;
+			
+			// aapt resource value: 0x7f050008
+			public const int textView5 = 2131034120;
+			
+			// aapt resource value: 0x7f05000a
+			public const int textView6 = 2131034122;
+			
+			// aapt resource value: 0x7f050012
+			public const int txtTimer = 2131034130;
 			
 			static Id()
 			{
@@ -155,13 +209,55 @@ namespace Project_4
 			public const int Armvid = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Hoofdmenu = 2130903042;
+			public const int Armvid2 = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Thuisoefeningen = 2130903043;
+			public const int Armvid3 = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Timer = 2130903044;
+			public const int Beenoefeningen = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Beenvid = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Beenvid2 = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int Beenvid3 = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int Borstoefeningen = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int Borstvid = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int Borstvid2 = 2130903050;
+			
+			// aapt resource value: 0x7f03000b
+			public const int Borstvid3 = 2130903051;
+			
+			// aapt resource value: 0x7f03000c
+			public const int Buikoefeningen = 2130903052;
+			
+			// aapt resource value: 0x7f03000d
+			public const int Buikvid = 2130903053;
+			
+			// aapt resource value: 0x7f03000e
+			public const int Buikvid2 = 2130903054;
+			
+			// aapt resource value: 0x7f03000f
+			public const int Buikvid3 = 2130903055;
+			
+			// aapt resource value: 0x7f030010
+			public const int Hoofdmenu = 2130903056;
+			
+			// aapt resource value: 0x7f030011
+			public const int Thuisoefeningen = 2130903057;
+			
+			// aapt resource value: 0x7f030012
+			public const int Timer = 2130903058;
 			
 			static Layout()
 			{
