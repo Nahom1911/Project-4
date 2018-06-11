@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <ScrollView
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+      <ListView
+          android:minWidth="25px"
+          android:minHeight="25px"
+          android:layout_width="match_parent"
+          android:layout_height="450.5dp"
+          android:id="@android:id/list"
+          android:layout_marginBottom="6.0dp"
+          android:smoothScrollbar="true"
+          android:choiceMode="multipleChoice" />
+      <TableRow
+          android:minWidth="25px"
+          android:minHeight="25px"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/tableRow1">
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="269.0dp" />
+        <Button
+            android:text="Button"
+            android:layout_column="1"
+            android:id="@+id/button1"
+            android:layout_width="105.0dp" />
+      </TableRow>
+    </LinearLayout>
+  </ScrollView>
+</LinearLayout>

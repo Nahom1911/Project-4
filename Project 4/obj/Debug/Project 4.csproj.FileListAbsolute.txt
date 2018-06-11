@@ -46,17 +46,34 @@ c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\layout\bmi.xml
 c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\layout\hoofdmenu.xml
 c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\test_1.png
 c:\users\nahom\source\repos\Project 4\Project 4\obj\Debug\res\drawable\buikje_5.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csprojResolveAssemblyReference.cache
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.dll
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project_4.Project_4.apk
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project_4.Project_4-Signed.apk
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\RadialProgress.Android.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csproj.CopyComplete
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\bin\Project_4.Project_4.apk
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\thuisoefeningen.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\timer.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armoefeningen.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid2.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid3.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid2.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid3.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstoefeningen.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenoefeningen.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikoefeningen.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid2.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid3.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid2.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid3.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\hoofdmenu.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\values\strings.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\thuisoefeningen_9.jpg
@@ -70,17 +87,25 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borst_4.p
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\test_1.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikje_5.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\timer_3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef2.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef2.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef2.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef2.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\R.cs.flag
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\uploadflags.txt
-C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\RadialProgress.Android.dll
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csproj.CopyComplete
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armoefeningen.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid2.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef2.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\armvid3.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\bmiapp.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\tabel1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\schema.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\check.jpg
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\todolijst.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Mono.Android.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\mscorlib.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\System.Core.pdb
@@ -114,26 +139,6 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Runtime.Serialization.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Xml.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid2.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstvid3.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\borstoefeningen.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef3.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borstoef2.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenoefeningen.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikoefeningen.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid2.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\beenvid3.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid2.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid3.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef3.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef2.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikoef3.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\beenoef2.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csprojResolveAssemblyReference.cache
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\Project 4.dll.mdb

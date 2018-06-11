@@ -21,6 +21,8 @@
     <activity android:label="Buikvid" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo" />
     <activity android:label="Buikvid2" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo2" />
     <activity android:label="Buikvid3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo3" />
+    <activity android:label="Calculator" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Bmiapp1" />
+    <activity android:label="Calculator" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Calculator" />
     <activity android:label="Project_4" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -29,6 +31,7 @@
     </activity>
     <activity android:label="Thuisoefeningen" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen" />
     <activity android:label="Timer1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1" />
+    <activity android:label="ToDoList" android:windowSoftInputMode="stateHidden|adjustPan" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.ToDoList" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Project_4.Project_4.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

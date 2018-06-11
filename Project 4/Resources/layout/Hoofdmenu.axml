@@ -1,33 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <ImageButton
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="138.5dp"
-        android:id="@+id/imageButton1"
-        android:layout_gravity="center"
-        android:src="@drawable/Thuisoefeningen_9"
-        android:clickable="true"
-        android:minHeight="100dp"
-        android:minWidth="100dp" />
-    <ImageButton
-        android:layout_width="393.0dp"
-        android:layout_height="144.0dp"
-        android:id="@+id/imageButton2"
-        android:layout_gravity="center"
-        android:src="@drawable/BMI_3"
-        android:clickable="true"
-        android:minHeight="100dp"
-        android:minWidth="100dp" />
-    <ImageButton
-        android:layout_width="393.0dp"
-        android:layout_height="144.0dp"
-        android:id="@+id/imageButton3"
-        android:layout_gravity="center"
-        android:src="@drawable/Timer_3"
-        android:clickable="true"
-        android:minHeight="100dp"
-        android:minWidth="100dp" />
+        android:layout_height="match_parent">
+      <ImageButton
+          android:layout_width="match_parent"
+          android:layout_height="138.5dp"
+          android:id="@+id/imageButton1"
+          android:layout_gravity="center"
+          android:src="@drawable/Thuisoefeningen_9"
+          android:clickable="true"
+          android:minHeight="100dp"
+          android:minWidth="100dp" />
+      <ImageButton
+          android:layout_width="393.0dp"
+          android:layout_height="144.0dp"
+          android:id="@+id/imageButton2"
+          android:layout_gravity="center"
+          android:src="@drawable/BMI_3"
+          android:clickable="true"
+          android:minHeight="100dp"
+          android:minWidth="100dp" />
+      <ImageButton
+          android:layout_width="393.0dp"
+          android:layout_height="144.0dp"
+          android:id="@+id/imageButton3"
+          android:layout_gravity="center"
+          android:src="@drawable/Timer_3"
+          android:clickable="true"
+          android:minHeight="100dp"
+          android:minWidth="100dp" />
+      <ImageButton
+          android:src="@drawable/check"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/imageButton4" />
+    </LinearLayout>
+  </ScrollView>
 </LinearLayout>

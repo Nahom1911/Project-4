@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1" />
+    <EditText
+        android:text="Weight (kg)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/InputWeight" />
+    <EditText
+        android:text="Height (m)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/InputHeight" />
+    <Button
+        android:text="Calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonCalculate" />
+    <TextView
+        android:text="BMI"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/OutputResult" />
+    <ImageView
+        android:src="@drawable/Tabel1"
+        android:layout_width="196.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton1"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginLeft="55.0dp"
+        android:layout_marginTop="0.0dp" />
+</LinearLayout>
