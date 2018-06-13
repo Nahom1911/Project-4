@@ -3,6 +3,14 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Java.In
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\mscorlib.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\RadialProgress.Android.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLite.Net.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLitePCLRaw.core.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Core.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Runtime.dll
@@ -20,5 +28,9 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Text.Encoding.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Mono.Security.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.ComponentModel.Composition.dll

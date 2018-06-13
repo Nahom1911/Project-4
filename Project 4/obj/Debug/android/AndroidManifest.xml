@@ -29,6 +29,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="SQLiteDB" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.SQLiteDB" />
     <activity android:label="Thuisoefeningen" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Thuisoefeningen" />
     <activity android:label="Timer1" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Timer1" />
     <activity android:label="ToDoList" android:windowSoftInputMode="stateHidden|adjustPan" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.ToDoList" />

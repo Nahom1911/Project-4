@@ -5,7 +5,7 @@
   <xs:import schemaLocation="schemas.android.com.tools.xsd" namespace="http://schemas.android.com/tools" />
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>7-6-2018 15:04:53</xs:documentation>
+    <xs:documentation>13-6-2018 15:53:04</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -1409,19 +1409,7 @@
   </xs:element>
   <xs:complexType name="RadialProgress.RadialProgressView">
     <xs:complexContent mixed="false">
-      <xs:extension base="View">
-        <xs:attribute ref="android:paddingHorizontal" />
-        <xs:attribute ref="android:paddingVertical" />
-        <xs:attribute ref="android:autofillMode" />
-        <xs:attribute ref="android:autofillHints" />
-        <xs:attribute ref="android:importantForAutofill" />
-        <xs:attribute ref="android:tooltipText" />
-        <xs:attribute ref="android:keyboardNavigationCluster" />
-        <xs:attribute ref="android:__removed0" />
-        <xs:attribute ref="android:nextClusterForward" />
-        <xs:attribute ref="android:__removed1" />
-        <xs:attribute ref="android:focusedByDefault" />
-      </xs:extension>
+      <xs:extension base="View" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="include" type="include">

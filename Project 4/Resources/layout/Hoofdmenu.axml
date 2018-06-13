@@ -1,46 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-  <ScrollView
+    <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content">
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-      <ImageButton
-          android:layout_width="match_parent"
-          android:layout_height="138.5dp"
-          android:id="@+id/imageButton1"
-          android:layout_gravity="center"
-          android:src="@drawable/Thuisoefeningen_9"
-          android:clickable="true"
-          android:minHeight="100dp"
-          android:minWidth="100dp" />
-      <ImageButton
-          android:layout_width="393.0dp"
-          android:layout_height="144.0dp"
-          android:id="@+id/imageButton2"
-          android:layout_gravity="center"
-          android:src="@drawable/BMI_3"
-          android:clickable="true"
-          android:minHeight="100dp"
-          android:minWidth="100dp" />
-      <ImageButton
-          android:layout_width="393.0dp"
-          android:layout_height="144.0dp"
-          android:id="@+id/imageButton3"
-          android:layout_gravity="center"
-          android:src="@drawable/Timer_3"
-          android:clickable="true"
-          android:minHeight="100dp"
-          android:minWidth="100dp" />
-      <ImageButton
-          android:src="@drawable/check"
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:id="@+id/imageButton4" />
-    </LinearLayout>
-  </ScrollView>
-</LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:text="Hoofdmenu"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/textView1" />
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:id="@+id/tableRow9">
+                <ImageButton
+                    android:src="@drawable/Settings_4"
+                    android:layout_width="195.0dp"
+                    android:layout_height="145.0dp"
+                    android:id="@+id/imageButton5"
+                    android:clickable="true"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
+                    android:adjustViewBounds="true"
+                    android:padding="0dp"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/tableRow8">
+                <TextView
+                    android:text="        Instellingen"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/textView2" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:id="@+id/tableRow7">
+                <ImageButton
+                    android:layout_width="195.0dp"
+                    android:layout_height="145.0dp"
+                    android:id="@+id/imageButton1"
+                    android:src="@drawable/Thuisoefeningen_2"
+                    android:clickable="true"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
+                    android:adjustViewBounds="true"
+                    android:padding="0dp"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/tableRow6">
+                <TextView
+                    android:text="    Thuisoefeningen"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/textView2" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:id="@+id/tableRow1">
+                <ImageButton
+                    android:layout_width="195.0dp"
+                    android:layout_height="145.0dp"
+                    android:id="@+id/imageButton2"
+                    android:src="@drawable/BMI_4"
+                    android:clickable="true"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
+                    android:adjustViewBounds="true"
+                    android:padding="0dp"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/tableRow2">
+                <TextView
+                    android:text="        BMI Meter"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/textView4" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:id="@+id/tableRow3">
+                <ImageButton
+                    android:layout_width="195.0dp"
+                    android:layout_height="145.0dp"
+                    android:id="@+id/imageButton3"
+                    android:layout_gravity="center"
+                    android:src="@drawable/Timer_5"
+                    android:clickable="true"
+                    android:minHeight="100dp"
+                    android:minWidth="100dp"
+                    android:adjustViewBounds="true"
+                    android:padding="0dp"
+                    android:scaleType="fitCenter" />
+            </TableRow>
+            <TableRow
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/tableRow4">
+                <TextView
+                    android:text="            Timer"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/textView5" />
+            </TableRow>
+          <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:id="@+id/tableRow5">
+            <ImageButton
+                android:src="@drawable/check_1"
+                android:layout_width="195.0dp"
+                android:layout_height="145.0dp"
+                android:id="@+id/imageButton4" 
+                android:clickable="true"
+                android:minHeight="100dp"
+                android:minWidth="100dp"
+                android:adjustViewBounds="true"
+                android:padding="0dp"
+                android:scaleType="fitCenter" />
+          </TableRow>
+          <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/tableRow10">
+            <TextView
+                android:text="       To-Do List"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/textView5" />
+          </TableRow>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout> 

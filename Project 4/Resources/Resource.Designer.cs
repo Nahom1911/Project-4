@@ -26,6 +26,8 @@ namespace Project_4
 		
 		public static void UpdateIdValues()
 		{
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::Project_4.Resource.String.ApplicationName;
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::Project_4.Resource.String.Hello;
 		}
 		
 		public partial class Attribute
@@ -45,7 +47,7 @@ namespace Project_4
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Arm_1 = 2130837504;
+			public const int Arm_2 = 2130837504;
 			
 			// aapt resource value: 0x7f020001
 			public const int ArmOef1 = 2130837505;
@@ -57,7 +59,7 @@ namespace Project_4
 			public const int ArmOef3 = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int Been_2 = 2130837508;
+			public const int Been_3 = 2130837508;
 			
 			// aapt resource value: 0x7f020005
 			public const int BeenOef1 = 2130837509;
@@ -69,10 +71,10 @@ namespace Project_4
 			public const int BeenOef3 = 2130837511;
 			
 			// aapt resource value: 0x7f020008
-			public const int BMI_3 = 2130837512;
+			public const int BMI_4 = 2130837512;
 			
 			// aapt resource value: 0x7f020009
-			public const int Borst_4 = 2130837513;
+			public const int Borst_5 = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
 			public const int BorstOef1 = 2130837514;
@@ -84,7 +86,7 @@ namespace Project_4
 			public const int BorstOef3 = 2130837516;
 			
 			// aapt resource value: 0x7f02000d
-			public const int Buikje_5 = 2130837517;
+			public const int Buik_6 = 2130837517;
 			
 			// aapt resource value: 0x7f02000e
 			public const int BuikOef1 = 2130837518;
@@ -96,28 +98,25 @@ namespace Project_4
 			public const int BuikOef3 = 2130837520;
 			
 			// aapt resource value: 0x7f020011
-			public const int check = 2130837521;
+			public const int check_1 = 2130837521;
 			
 			// aapt resource value: 0x7f020012
 			public const int Logo_6 = 2130837522;
 			
 			// aapt resource value: 0x7f020013
-			public const int Oefening_7 = 2130837523;
+			public const int Settings_4 = 2130837523;
 			
 			// aapt resource value: 0x7f020014
-			public const int Rug_8 = 2130837524;
+			public const int Tabel1 = 2130837524;
 			
 			// aapt resource value: 0x7f020015
-			public const int Tabel1 = 2130837525;
+			public const int Thuisoefeningen_2 = 2130837525;
 			
 			// aapt resource value: 0x7f020016
-			public const int Test_1 = 2130837526;
+			public const int Thuisoefeningen_9 = 2130837526;
 			
 			// aapt resource value: 0x7f020017
-			public const int Thuisoefeningen_9 = 2130837527;
-			
-			// aapt resource value: 0x7f020018
-			public const int Timer_3 = 2130837528;
+			public const int Timer_5 = 2130837527;
 			
 			static Drawable()
 			{
@@ -150,11 +149,23 @@ namespace Project_4
 			// aapt resource value: 0x7f050011
 			public const int OutputResult = 2131034129;
 			
-			// aapt resource value: 0x7f05001a
-			public const int btnStart = 2131034138;
+			// aapt resource value: 0x7f05002e
+			public const int btnStart = 2131034158;
+			
+			// aapt resource value: 0x7f05002f
+			public const int btnStop = 2131034159;
+			
+			// aapt resource value: 0x7f050018
+			public const int buAdd = 2131034136;
+			
+			// aapt resource value: 0x7f050019
+			public const int buDelete = 2131034137;
 			
 			// aapt resource value: 0x7f05001b
-			public const int btnStop = 2131034139;
+			public const int buSelect = 2131034139;
+			
+			// aapt resource value: 0x7f05001a
+			public const int buUpdate = 2131034138;
 			
 			// aapt resource value: 0x7f05000c
 			public const int button1 = 2131034124;
@@ -162,20 +173,35 @@ namespace Project_4
 			// aapt resource value: 0x7f050010
 			public const int buttonCalculate = 2131034128;
 			
-			// aapt resource value: 0x7f05001d
-			public const int editText1 = 2131034141;
+			// aapt resource value: 0x7f050030
+			public const int editText1 = 2131034160;
+			
+			// aapt resource value: 0x7f050015
+			public const int etDate = 2131034133;
+			
+			// aapt resource value: 0x7f050013
+			public const int etFullName = 2131034131;
+			
+			// aapt resource value: 0x7f050016
+			public const int etWeight = 2131034134;
+			
+			// aapt resource value: 0x7f050014
+			public const int etid = 2131034132;
 			
 			// aapt resource value: 0x7f050012
 			public const int imageButton1 = 2131034130;
 			
-			// aapt resource value: 0x7f050013
-			public const int imageButton2 = 2131034131;
+			// aapt resource value: 0x7f050023
+			public const int imageButton2 = 2131034147;
 			
-			// aapt resource value: 0x7f050014
-			public const int imageButton3 = 2131034132;
+			// aapt resource value: 0x7f050026
+			public const int imageButton3 = 2131034150;
 			
-			// aapt resource value: 0x7f050015
-			public const int imageButton4 = 2131034133;
+			// aapt resource value: 0x7f050029
+			public const int imageButton4 = 2131034153;
+			
+			// aapt resource value: 0x7f05001e
+			public const int imageButton5 = 2131034142;
 			
 			// aapt resource value: 0x7f050001
 			public const int imageView1 = 2131034113;
@@ -186,20 +212,47 @@ namespace Project_4
 			// aapt resource value: 0x7f050009
 			public const int imageView3 = 2131034121;
 			
-			// aapt resource value: 0x7f050016
-			public const int linearLayout1 = 2131034134;
+			// aapt resource value: 0x7f050017
+			public const int linearLayout1 = 2131034135;
 			
-			// aapt resource value: 0x7f050018
-			public const int progressView = 2131034136;
+			// aapt resource value: 0x7f05002c
+			public const int progressView = 2131034156;
 			
 			// aapt resource value: 0x7f05000d
 			public const int scrollView1 = 2131034125;
 			
-			// aapt resource value: 0x7f050017
-			public const int spinner1 = 2131034135;
+			// aapt resource value: 0x7f05002b
+			public const int spinner1 = 2131034155;
 			
-			// aapt resource value: 0x7f05001c
-			public const int tableRow1 = 2131034140;
+			// aapt resource value: 0x7f050022
+			public const int tableRow1 = 2131034146;
+			
+			// aapt resource value: 0x7f05002a
+			public const int tableRow10 = 2131034154;
+			
+			// aapt resource value: 0x7f050024
+			public const int tableRow2 = 2131034148;
+			
+			// aapt resource value: 0x7f050025
+			public const int tableRow3 = 2131034149;
+			
+			// aapt resource value: 0x7f050027
+			public const int tableRow4 = 2131034151;
+			
+			// aapt resource value: 0x7f050028
+			public const int tableRow5 = 2131034152;
+			
+			// aapt resource value: 0x7f050021
+			public const int tableRow6 = 2131034145;
+			
+			// aapt resource value: 0x7f050020
+			public const int tableRow7 = 2131034144;
+			
+			// aapt resource value: 0x7f05001f
+			public const int tableRow8 = 2131034143;
+			
+			// aapt resource value: 0x7f05001d
+			public const int tableRow9 = 2131034141;
 			
 			// aapt resource value: 0x7f050002
 			public const int textView1 = 2131034114;
@@ -219,8 +272,11 @@ namespace Project_4
 			// aapt resource value: 0x7f05000a
 			public const int textView6 = 2131034122;
 			
-			// aapt resource value: 0x7f050019
-			public const int txtTimer = 2131034137;
+			// aapt resource value: 0x7f05001c
+			public const int tvViewText = 2131034140;
+			
+			// aapt resource value: 0x7f05002d
+			public const int txtTimer = 2131034157;
 			
 			static Id()
 			{
@@ -287,19 +343,22 @@ namespace Project_4
 			public const int Buikvid3 = 2130903056;
 			
 			// aapt resource value: 0x7f030011
-			public const int Hoofdmenu = 2130903057;
+			public const int DB = 2130903057;
 			
 			// aapt resource value: 0x7f030012
-			public const int Schema = 2130903058;
+			public const int Hoofdmenu = 2130903058;
 			
 			// aapt resource value: 0x7f030013
-			public const int Thuisoefeningen = 2130903059;
+			public const int Schema = 2130903059;
 			
 			// aapt resource value: 0x7f030014
-			public const int Timer = 2130903060;
+			public const int Thuisoefeningen = 2130903060;
 			
 			// aapt resource value: 0x7f030015
-			public const int ToDolijst = 2130903061;
+			public const int Timer = 2130903061;
+			
+			// aapt resource value: 0x7f030016
+			public const int ToDolijst = 2130903062;
 			
 			static Layout()
 			{
@@ -314,8 +373,14 @@ namespace Project_4
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f040001
+			public const int ApplicationName = 2130968577;
+			
 			// aapt resource value: 0x7f040000
-			public const int app_name = 2130968576;
+			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int app_name = 2130968578;
 			
 			static String()
 			{

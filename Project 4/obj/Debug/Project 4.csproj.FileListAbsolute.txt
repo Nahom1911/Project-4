@@ -77,16 +77,7 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\buikvid3.xm
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\hoofdmenu.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\values\strings.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\thuisoefeningen_9.jpg
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\arm_1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\been_2.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\bmi_3.gif
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\logo_6.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\oefening_7.jpg
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\rug_8.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borst_4.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\test_1.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buikje_5.png
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\timer_3.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef1.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef2.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\armoef3.png
@@ -104,8 +95,28 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\uploadflags.txt
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\bmiapp.xml
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\tabel1.png
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\schema.xml
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\check.jpg
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\todolijst.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLite-net.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLite.Net.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLite-net.pdb
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\SQLite-net.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\layout\db.xml
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\buik_6.jpg
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\arm_2.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\been_3.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\borst_5.jpg
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\check_1.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\settings_4.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\thuisoefeningen_2.gif
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\timer_5.png
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\res\drawable\bmi_4.png
+C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Mono.Android.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\mscorlib.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\System.Core.pdb
@@ -118,6 +129,7 @@ C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Mono.Security.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\Mono.Android.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\SQLite-net.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.Core.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.Xml.pdb
@@ -126,19 +138,4 @@ C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.Runtime
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\Mono.Security.pdb
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\Project 4.dll.mdb
-C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.dll.mdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Project 4.dll.mdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Mono.Android.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\Mono.Security.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\mscorlib.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Core.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Net.Http.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Runtime.Serialization.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\android\assets\System.Xml.pdb
-C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\Project 4.csprojResolveAssemblyReference.cache
-C:\Users\nahom\source\repos\Project-4\Project 4\bin\Debug\Project 4.dll
 C:\Users\nahom\source\repos\Project-4\Project 4\obj\Debug\linksrc\Project 4.dll.mdb
