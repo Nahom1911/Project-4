@@ -24,9 +24,9 @@
                 android:id="@+id/imageView1"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="-Lig met je rug op de grond, waarbij beide benen vlak boven de grond zijn gestrekt en waar de armen zich boven het hoofd bevinden. - De knieën worden vervolgens naar de borst getrokken, waarna ze uitgestrekt worden naar boven, waarbij de heup van de grond komt. - Uiteindelijk worden de benen weer horizontaal vlak boven de grond uitgestrekt. "
+                android:text="-Lig met je rug op de grond, waarbij beide benen vlak boven de grond zijn gestrekt en waar de armen zich boven het hoofd bevinden. De knieën worden vervolgens naar de borst getrokken, waarna ze uitgestrekt worden naar boven, waarbij de heup van de grond komt. Uiteindelijk worden de benen weer horizontaal vlak boven de grond uitgestrekt. "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="105.0dp"
                 android:id="@+id/textView1"
                 android:layout_marginRight="204.0dp" />
             <Button
@@ -47,9 +47,9 @@
                 android:id="@+id/imageView2"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="-Plaats je voeten op heupbreedte en zak door je knieën tot de bovenbenen horizontaal zijn. -Houd deze positie vast, waarbij je de romp rechtop houdt. "
+                android:text="Plaats je voeten op heupbreedte en zak door je knieën tot de bovenbenen horizontaal zijn. Houd deze positie vast, waarbij je de romp rechtop houdt. "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="70.0dp"
                 android:id="@+id/textView4"
                 android:layout_marginRight="204.0dp" />
             <Button
@@ -70,9 +70,9 @@
                 android:id="@+id/imageView3"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="- Plaats de voeten op heupbreedte en zak door de knieën - Houd de romp rechtop, hef de armen voorwaarts omhoog erhand over je linkerhand en stap met je linkervoet naar links. 3. Zet nu je linkerhand en linkervoet nu weer op zij zodat je weer in plank positie staat. 4. Blijf stap 2 en 3 nu herhalen zodat je heen en weer beweegt. 5. Je hebt 1 rep gedaan als je jouw armen 2 keer hebt gekruist. 6. Herhaal dit 5 keer.  "
+                android:text="Plaats de voeten op heupbreedte en zak door de knieën Houd de romp rechtop, hef de armen voorwaarts omhoog erhand over je linkerhand en stap met je linkervoet naar links. Zet nu je linkerhand en linkervoet nu weer op zij zodat je weer in plank positie staat. Blijf stap 2 en 3 nu herhalen zodat je heen en weer beweegt. 5. Je hebt 1 rep gedaan als je jouw armen 2 keer hebt gekruist. Herhaal dit 5 keer.  "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="117.0dp"
                 android:id="@+id/textView6"
                 android:layout_marginRight="204.0dp" />
             <Button

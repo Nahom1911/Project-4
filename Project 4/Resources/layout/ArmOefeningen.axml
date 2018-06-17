@@ -24,9 +24,9 @@
                 android:id="@+id/imageView1"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="Zo werkt het: 1. Begin in een plankhouding met je knieën op de grond.2. Strek je rechterbeen zodat deze parallel is met de vloer.3. Maak nu een push-up terwijl je in dezelfde houding blijft.4. Herhaal dit 10 – 15 keer."
+                android:text="Begin in een plankhouding met je knieën op de grond. Strek je rechterbeen zodat deze parallel is met de vloer. Maak nu een push-up terwijl je in dezelfde houding blijft.4. Herhaal dit 10 – 15 keer."
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="70.0dp"
                 android:id="@+id/textView1"
                 android:layout_marginRight="204.0dp" />
             <Button
@@ -47,7 +47,7 @@
                 android:id="@+id/imageView2"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="Zo werkt het: 1. Ga op de grond zitten met je armen achter je op schouderbreedte. 2. Beweeg je billen in de lucht terwijl je je armen strekt. 3. Beweeg nu langzaam naar beneden terwijl je je ellebogen een beetje buigt en kom weer omhoog. 4. Herhaal dit 10 – 15 keer "
+                android:text="Ga op de grond zitten met je armen achter je op schouderbreedte. Beweeg je billen in de lucht terwijl je je armen strekt. Beweeg nu langzaam naar beneden terwijl je je ellebogen een beetje buigt en kom weer omhoog. Herhaal dit 10 – 15 keer "
                 android:layout_width="368.5dp"
                 android:layout_height="88.0dp"
                 android:id="@+id/textView4"
@@ -70,9 +70,9 @@
                 android:id="@+id/imageView3"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="o werkt het: 1. Ga in plank positie staan met je armen op schouder breedte. 2. Kruis nu je rechterhand over je linkerhand en stap met je linkervoet naar links. 3. Zet nu je linkerhand en linkervoet nu weer op zij zodat je weer in plank positie staat. 4. Blijf stap 2 en 3 nu herhalen zodat je heen en weer beweegt. 5. Je hebt 1 rep gedaan als je jouw armen 2 keer hebt gekruist. 6. Herhaal dit 5 keer.  "
+                android:text="Ga in plank positie staan met je armen op schouder breedte. Kruis nu je rechterhand over je linkerhand en stap met je linkervoet naar links. Zet nu je linkerhand en linkervoet nu weer op zij zodat je weer in plank positie staat. Blijf stap 2 en 3 nu herhalen zodat je heen en weer beweegt. 5. Je hebt 1 rep gedaan als je jouw armen 2 keer hebt gekruist. Herhaal dit 5 keer.  "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="120.0dp"
                 android:id="@+id/textView6"
                 android:layout_marginRight="204.0dp" />
             <Button

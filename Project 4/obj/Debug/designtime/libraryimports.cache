@@ -1,6 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <ManifestDocuments />
+  <ManifestDocuments>
+    <ManifestDocument>obj\Debug\lp\12\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\13\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\14\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\15\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\16\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\lp\17\jl\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
   <NativeLibraries />
-  <Jars />
+  <Jars>
+    <Jar>obj\Debug\lp\11\jl\support-annotations.jar</Jar>
+    <Jar>obj\Debug\lp\12\jl\classes.jar</Jar>
+    <Jar>obj\Debug\lp\13\jl\classes.jar</Jar>
+    <Jar>obj\Debug\lp\14\jl\classes.jar</Jar>
+    <Jar>obj\Debug\lp\15\jl\classes.jar</Jar>
+    <Jar>obj\Debug\lp\16\jl\classes.jar</Jar>
+    <Jar>obj\Debug\lp\17\jl\classes.jar</Jar>
+  </Jars>
 </Paths>

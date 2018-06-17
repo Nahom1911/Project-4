@@ -23,7 +23,7 @@
     <activity android:label="Buikvid3" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Buikvideo3" />
     <activity android:label="Calculator" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Bmiapp1" />
     <activity android:label="Calculator" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.Calculator" />
-    <activity android:label="Project_4" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity">
+    <activity android:icon="@drawable/logo_6" android:label="Fit4Home" android:name="md5d3387cadd4d4015e8be0fd8024ccb5c6.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
@@ -42,4 +42,5 @@
       </intent-filter>
     </receiver>
   </application>
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
 </manifest>

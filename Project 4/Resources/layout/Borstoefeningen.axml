@@ -24,9 +24,9 @@
                 android:id="@+id/imageView1"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="Plaats je handen op de vloer, direct onder hun respectieve schouders, en strek je voeten naar achteren. Strek je rug zodat je voeten en je schouders een rechte, strakke lijn maken. • Een herhaling bestaat hieruit dat je armen zich tot in een hoek van 90 graden buigen, waarna je ze weer strekt. • Laat je lichaam zakken en duw jezelf weer omhoog in een langzame, gestage beweging. Doe hiervan zoveel als je kunt! • Als je een absolute beginner bent, dan moet je wellicht eerst beginnen met push-ups op je knieën, waarbij je heupen en rug gestrekt zijn. "
+                android:text="Plaats je handen op de vloer, direct onder hun respectieve schouders, en strek je voeten naar achteren. Strek je rug zodat je voeten en je schouders een rechte, strakke lijn maken. Een herhaling bestaat hieruit dat je armen zich tot in een hoek van 90 graden buigen, waarna je ze weer strekt. Laat je lichaam zakken en duw jezelf weer omhoog in een langzame, gestage beweging. Doe hiervan zoveel als je kunt! Als je een absolute beginner bent, dan moet je wellicht eerst beginnen met push-ups op je knieën, waarbij je heupen en rug gestrekt zijn. "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="170.0dp"
                 android:id="@+id/textView1"
                 android:layout_marginRight="204.0dp" />
             <Button
@@ -47,9 +47,9 @@
                 android:id="@+id/imageView2"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="Ga rechtop op de vloer zitten met een partner die achter je staat. Plaats je handen achter je hoofd en duw je ellebogen zover naar achteren als je kunt. Laat vervolgens je partner je ellebogen vasthouden terwijl je voorzichtig probeert om je ellebogen naar voren te duwen, zonder je handen te verplaatsen.  Elke herhaling moet ongeveer 10 seconden duren. • Je partner moet ervoor zorgen dat je ellebogen zich niet verplaatsen terwijl je ze naar voren probeert te trekken. • Na elke herhaling ontspan je laat je je ellebogen door je partner naar achteren trekken als nog comfortabel voor je is, om de spieren van je borst op te rekken. • Om blessures te voorkomen is het belangrijk dat je je partner laat weten wanneer die moet stoppen met trekken. • Deze oefening rekt ook de schouders op. "
+                android:text="Ga rechtop op de vloer zitten met een partner die achter je staat. Plaats je handen achter je hoofd en duw je ellebogen zover naar achteren als je kunt. Laat vervolgens je partner je ellebogen vasthouden terwijl je voorzichtig probeert om je ellebogen naar voren te duwen, zonder je handen te verplaatsen.  Elke herhaling moet ongeveer 10 seconden duren. Je partner moet ervoor zorgen dat je ellebogen zich niet verplaatsen terwijl je ze naar voren probeert te trekken. Na elke herhaling ontspan je laat je je ellebogen door je partner naar achteren trekken als nog comfortabel voor je is, om de spieren van je borst op te rekken. Om blessures te voorkomen is het belangrijk dat je je partner laat weten wanneer die moet stoppen met trekken. Deze oefening rekt ook de schouders op. "
                 android:layout_width="368.5dp"
-                android:layout_height="88.0dp"
+                android:layout_height="240.0dp"
                 android:id="@+id/textView4"
                 android:layout_marginRight="204.0dp" />
             <Button
@@ -70,7 +70,7 @@
                 android:id="@+id/imageView3"
                 android:layout_marginRight="0.0dp" />
             <TextView
-                android:text="Sta met je armen gestrekt voor je uit en je handpalmen samen. Houd je ellebogen recht en beweeg je snel je armen zo veel mogelijk naar achteren en weer terug naar de beginpositie.[16] • Doe hier tien van en verhoog je snelheid bij elke herhaling. • Deze oefening rekt je rug ook op. "
+                android:text="Sta met je armen gestrekt voor je uit en je handpalmen samen. Houd je ellebogen recht en beweeg je snel je armen zo veel mogelijk naar achteren en weer terug naar de beginpositie. Doe hier tien van en verhoog je snelheid bij elke herhaling. Deze oefening rekt je rug ook op. "
                 android:layout_width="368.5dp"
                 android:layout_height="88.0dp"
                 android:id="@+id/textView6"

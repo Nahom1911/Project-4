@@ -8,12 +8,12 @@ using Android.Widget;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
-using Android.Widget;
+//using Android.Widget;
 using Android.Content;
 
 namespace Project_4
 {
-    [Activity(Label = "Project_4", MainLauncher = true)]
+    [Activity(Label = "Fit4Home", MainLauncher = true , Icon = "@drawable/Logo_6")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

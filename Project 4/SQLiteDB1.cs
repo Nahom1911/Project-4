@@ -23,42 +23,37 @@ namespace Project_4
 
             public SQLiteDB1()
             {
-                //Creating database, if it doesn't already exist 
-                if (!File.Exists(dbPath))
-                {
-                    var db = new SQLiteConnection(dbPath);
-                    db.CreateTable<Departments>();
-                }
-                //if (db.Table<Departments>().Count() == 0)
-            }
-
-        public void Insert(string FullName, int ID)
-        {
-            var db = new SQLiteConnection(dbPath);
-            var newDepartments = new Departments();
-            newDepartments.FullName = FullName;
-            newDepartments.ID = ID;
-            db.Insert(newDepartments);
-        }
-        //Update Departments
-        public void Update(string FullName, int ID)
-        {
-            var db = new SQLiteConnection(dbPath);
-            var newDepartments = new Departments();
-            newDepartments.FullName = FullName;
-            newDepartments.ID = ID;
-            db.Update(newDepartments);
-        }
-        public void delete(int id)
+            //Creating database, if it doesn't already exist 
+            if (!File.Exists(dbPath))
             {
                 var db = new SQLiteConnection(dbPath);
-                var newDepartments = new Departments();
-                newDepartments.ID = id;
-                db.Delete(newDepartments);
-                // db.Execute(""); 
+                    db.CreateTable<Departments>();
             }
 
-            public string select(string FullName)
+            //if (db.Table<Departments>().Count() == 0)
+        }
+
+        public void Insert(string FullName,string Datetime, string Weight)
+        {
+            var db = new SQLiteConnection(dbPath);
+            var newDepartments = new Departments();
+            newDepartments.FullName = FullName;
+            newDepartments.Weight = Weight;
+            newDepartments.Datetime = Datetime;
+            db.Insert(newDepartments);
+        }
+
+        
+        public void Delete(int ID)
+        {
+            var db = new SQLiteConnection(dbPath);
+            var newDepartments = new Departments();
+            newDepartments.ID = ID;
+            db.Delete(newDepartments);
+
+        }
+
+        public string select(string FullName)
             {
                 string data = "";
                 var db = new SQLiteConnection(dbPath);
@@ -66,8 +61,8 @@ namespace Project_4
                 var DepartmentssStartingWithA = db.Query<Departments>("SELECT * FROM Departments WHERE FullName = ?", FullName);
                 foreach (var s in DepartmentssStartingWithA)
                 {
-                    data += s.ID + " " + s.FullName + "\n";
-                }
+                data += s.ID + " " + s.FullName + " " + s.Datetime + " " + s.Weight + "\n";
+            }
                 return data;
             }
 
@@ -79,8 +74,8 @@ namespace Project_4
                 var table = db.Table<Departments>();
                 foreach (var s in table)
                 {
-                    data += s.ID + " " + s.FullName + "\n";
-                }
+                data += s.ID + " " + s.FullName + " " + s.Datetime + " " + s.Weight + "\n";
+            }
                 return data;
             }
 
@@ -89,8 +84,15 @@ namespace Project_4
         {
             [PrimaryKey, AutoIncrement, Column("_ID")]
             public int ID { get; set; }
+           
             [MaxLength(25)]
             public string FullName { get; set; }
+            [Column("_Datetime")]
+            [MaxLength(25)]
+            public string Datetime { get; set; }
+            [Column("_Weight")]
+            [MaxLength(25)]
+            public string Weight { get; set; }
 
         }
 
